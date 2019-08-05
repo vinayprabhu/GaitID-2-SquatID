@@ -1,6 +1,8 @@
 # GaitID-2-SquatID
-Accelerometric time series transfer learning 
-<img src="GaitID2SquatID.png" width="155" height="255" />
+## Accelerometric time series transfer learning
+
+
+<img src="GaitID2SquatID.png" width="455" height="255" />
 
 
 Bibtex entry:
